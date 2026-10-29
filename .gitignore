@@ -1,0 +1,14 @@
+# Arquivos locais e credenciais
+.openai/
+.sites-*/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+node_modules/
+work/
+outputs/
+.DS_Store
+Thumbs.db
