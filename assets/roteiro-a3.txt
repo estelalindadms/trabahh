@@ -1,0 +1,29 @@
+O QUE AINDA PULSA — PLANO AUTORAL PARA A3
+
+Proposta: um curta de cerca de 90 segundos ligado ao ensaio de 16 fotografias e ao cordel.
+
+1. OITO LUGARES, DOIS OLHARES
+Fotografar oito pares em um percurso da equipe. Em cada lugar, procurar uma marca de desgaste e um gesto de criação, presença ou cuidado. São olhares simultâneos; não simular antes e depois. Registrar os locais e a data de captação.
+
+2. UMA FOLHA EM TRÂNSITO
+Escrever o cordel após observar o percurso. Fotografar e filmar a mesma folha em relação com os espaços. Guardar rascunhos para mostrar decisões e autoria.
+
+3. CURTA — TRÊS ATOS
+0–30s: A SUPERFÍCIE. Detalhes de paredes, chão e água. Entram quatro fotos do percurso; começa a declamação com música baixa.
+30–60s: O GESTO. Mostrar o grupo escrevendo, enquadrando e interpretando. O próprio fazer artístico move a narrativa.
+60–90s: O PULSO. Filmar arte, encontro e circulação nos mesmos espaços. Encerrar com o verso do Recife vivo e a pergunta: Que Recife o nosso gesto ajuda a manter vivo?
+
+EQUIPE DE TRÊS
+Pessoa 1: fotografia e câmera.
+Pessoa 2: pesquisa, escrita e voz.
+Pessoa 3: som, edição e montagem no site.
+Todos participam das escolhas e da revisão.
+
+ACESSO AO CONTEÚDO FINAL
+Preparar legendas em português com falas e informações sonoras relevantes; transcrição integral; descrição textual das imagens e uma versão com audiodescrição. O site já reserva os campos, mas esses arquivos devem corresponder ao filme efetivamente produzido.
+
+PUBLICAÇÃO DO CURTA
+Em data.js, preencher shortFilm.src com o caminho do MP4 e shortFilm.captionsSrc com o arquivo WebVTT final. Preencher shortFilm.transcript com a transcrição real. shortFilm.audioDescriptionSrc pode apontar para a versão do vídeo com audiodescrição. A interface continua como 'Em produção' enquanto não houver vídeo.
+
+SOBRE ESTA BASE
+As fotos atuais são de arquivo e permanecem creditadas. A autoria própria da A3 surgirá dos registros, do poema, da interpretação e das decisões de montagem da equipe. A proposta não promete ineditismo absoluto.
