@@ -41,8 +41,12 @@ Para publicar o filme, preencha os campos `shortFilm` em `data.js`: `src` para o
 
 Esta cópia contém o site diretamente na raiz do repositório e usa caminhos relativos, compatíveis com uma publicação de projeto em GitHub Pages.
 
-Em Settings > Pages, selecione Deploy from a branch, a branch main e a pasta / (root). O arquivo .nojekyll mantém a publicação estática, sem etapa de compilação.
+Em Settings > Pages, selecione Deploy from a branch, a branch master e a pasta / (root). O arquivo .nojekyll mantém a publicação estática, sem etapa de compilação.
 
-O endereço canonical da hospedagem anterior foi retirado. Depois de conhecer a URL definitiva do GitHub Pages, adicione essa URL no head de index.html, se desejar.
+Endereço público: https://estelalindadms.github.io/trabahh/
+
+Repositório: https://github.com/estelalindadms/trabahh
+
+Depois de ativar Pages, cada alteração enviada à branch master é publicada automaticamente.
 
 Para testar localmente com Python, execute python -m http.server 8000 na raiz do projeto e abra http://localhost:8000. A publicação online não depende desse servidor nem dos arquivos permanecerem no computador.
