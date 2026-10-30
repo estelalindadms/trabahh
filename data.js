@@ -132,8 +132,8 @@ window.RECIFE_DATA = {
     },
     {
       "src": "assets/recife-11.jpg",
-      "title": "O peso do tempo",
-      "caption": "Fachada e estrutura de antigo galpão no Cais José Estelita. Registro de março de 2019.",
+      "title": "Gentrificação no Recife",
+      "caption": "Galpão do Cais José Estelita, em março de 2019. A imagem introduz a discussão sobre valorização imobiliária, acesso à cidade e permanência de moradores e usos populares.",
       "alt": "Detalhe de fachada desgastada e estrutura metálica de antigo galpão no Cais José Estelita; registro de março de 2019.",
       "author": "Priscilla Buhr / Ministério Público de Pernambuco",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suspen%C3%A7%C3%A3o_de_obras_no_Cais_Jos%C3%A9_Estelita_(46558128265).jpg",
@@ -141,7 +141,9 @@ window.RECIFE_DATA = {
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "location": "Cais José Estelita, Recife, Pernambuco",
       "date": "2019-03-26 12:29",
-      "modifications": "Enquadramento e tratamento monocromático na exibição; arquivo preservado."
+      "modifications": "Enquadramento e tratamento monocromático na exibição; arquivo preservado.",
+      "contextLink": "#gentrificacao",
+      "contextLabel": "Entender a gentrificação no Recife"
     },
     {
       "src": "assets/recife-12.jpg",
@@ -239,7 +241,7 @@ window.RECIFE_DATA = {
     {
       "number": "III",
       "title": "O que se desfaz",
-      "intro": "As paredes guardam desgaste e história. Estes registros de arquivo põem o tempo em evidência.",
+      "intro": "Entre patrimônio e mercado, o centro do Recife reúne disputas sobre memória, valorização e acesso à cidade. O ensaio aproxima esses debates dos registros de arquivo.",
       "stanza": [
         "A parede perde a pele",
         "E revela o seu avesso.",

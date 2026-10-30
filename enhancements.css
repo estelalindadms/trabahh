@@ -126,3 +126,14 @@ dialog :focus-visible,.cordel-section :focus-visible{outline:3px solid #f5d78d;o
 @media(max-width:370px){.site-header nav{font-size:.68rem;gap:7px}.sound-info{min-width:115px}.sound-player.is-reading .sound-info{min-width:90px}#reading-pause{min-width:42px}.access-dialog{width:96vw;padding:15px}}
 @media(prefers-reduced-motion:reduce){.alive-bridge-art,.movement-alive,.movement-alive .photo-open img{transition:none}}
 @media print{.access-open,.hero-route,.alive-button,.alive-status,.film-section,.production-line,.access-dialog{display:none!important}.alive-bridge{padding:0;margin-bottom:20px}.alive-bridge-art{height:100px}.alive-bridge-content{display:block}.alive-bridge h2{font-size:25px}.alive-bridge-copy{display:none}.authorship-section{padding:20px}.authorship-grid{grid-template-columns:1fr 1fr 1fr}.movement-alive{background:#fff}.photo-open img{filter:none!important}}
+
+/* A fotografia abre o debate; os estudos dão contexto ao território. */
+.photo-caption .photo-study-link{display:inline-flex;align-items:center;gap:7px;min-height:44px;margin-top:4px;font-size:calc(.8rem * var(--reading-scale));line-height:1.6;color:var(--red);text-decoration:underline;text-underline-offset:3px}
+.photo-card[id],.urban-study{scroll-margin-top:28px}
+.reference-list .urban-study h3{margin-top:12px}
+.reference-list .urban-study .urban-question{font:italic calc(1.15rem * var(--reading-scale))/1.5 var(--serif);color:var(--red);margin:12px 0 16px}
+.reference-list .urban-study>p{margin-top:17px}
+.reference-list .urban-study>a{margin-top:8px;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.reference-list .urban-reading-note{border-left:3px solid var(--red);padding-left:14px}
+.reference-list .urban-return{display:inline-flex;align-items:center;min-height:44px}
+@media print{.photo-study-link{display:none!important}}
